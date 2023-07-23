@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tomer Sananes <br/>
+<h1>Tomer Sananes <br/>
   
 <h2>👨‍💻 Computer science student at Sapir College </h2>
 
