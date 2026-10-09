@@ -1,6 +1,6 @@
 <h1>Tomer Sananes <br/>
   
-<h2>👨‍💻 Computer science student at Sapir College </h2>
+<h2>👨‍💻 Computer science student at Ben-Gurion University of the Negev </h2>
 
 <h2> 🤳 How to reach me:</h2>
 
